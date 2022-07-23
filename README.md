@@ -1,3 +1,5 @@
+# Randomized algorithm appened people in team
+
 Once at work - invited to play some team game.
 
 Was necessary to split into teams.
