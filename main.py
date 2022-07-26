@@ -13,18 +13,14 @@ for i in range(1, people):
 # generate a lot of empty arrays
 for i in range(0, int(people / members_inside_team)):
     n.append([])
-# print(a, '\n', n)
 
-
-# while len(n[:]) != 5:
-#     n[:].append((random.choice(a)))
-
-
+# fill the array with data (we clear the sequence (array A) - so that the data does not repeat
 for x, el_2 in enumerate(n):
     for j in range(members_inside_team):
         vrem = random.choice(a)
         el_2.append(vrem)
         a.remove(vrem)
 
+# output every team
 for eksl in n:
     print(eksl)
