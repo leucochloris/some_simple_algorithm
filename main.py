@@ -24,3 +24,5 @@ for x, el_2 in enumerate(n):
 # output every team
 for eksl in n:
     print(eksl)
+
+print('\nEveru members of team are unique.\nThere is no threat of repetition at RANDOM, because the list is being cleared ')
