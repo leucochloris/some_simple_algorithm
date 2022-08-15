@@ -1,9 +1,6 @@
-# Randomized algorithm appened people in team
+# Randomized algorithm appened people in team 
 
-Once at work - invited to play some team game.
-
-Was necessary to split into teams.
-
+Once at work - invited to play some team game. Was necessary to split into teams.
 Who asked who - on what principle. The answer was - randomly.
 
 I decided to illustrate - how it could be....
